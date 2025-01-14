@@ -2,7 +2,9 @@
 
 ## Prerequisites
 
-Ensure you have **ROS 2 Humble** or a higher version installed.
+Ensure you have **ROS 2 Humble** or a higher version recommended.
+Gazebo
+OpenCV 2
 
 ### Install the Dependencies
 Run the following commands to install the required ROS 2 packages:
