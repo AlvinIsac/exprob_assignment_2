@@ -1,4 +1,4 @@
-# Assignment for Experimental Robotics
+## Assignment for Experimental Robotics
 
 ## Prerequisites
 
