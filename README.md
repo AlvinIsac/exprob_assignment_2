@@ -53,7 +53,7 @@ source install/setup.bash
 In the first terminal, run:
 
 ```bash
-ros2 launch robot_urdf gazebo.hw2.launch.py
+ros2 launch robot_urdf gazebo_hw2.launch.py
 ```
 
 ### Step 2: Launch the Navigation Stack
