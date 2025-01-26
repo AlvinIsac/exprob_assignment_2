@@ -1,5 +1,9 @@
 # exprob_assignment_2
 
+## Video Result
+
+[![Watch the demo video](https://youtu.be/sR4d2pFwdho.jpg)](https://youtu.be/sR4d2pFwdho)
+
 ## Prerequisites
 
 Ensure you have **ROS 2 Humble** or a higher version recommended.
