@@ -2,7 +2,7 @@
 
 ## Video Result
 
-[![Watch the demo video](https://youtu.be/sR4d2pFwdho.jpg)](https://youtu.be/sR4d2pFwdho)
+[![Watch the demo video](https://img.youtube.com/vi/sR4d2pFwdho/0.jpg)](https://youtu.be/sR4d2pFwdho)
 
 ## Prerequisites
 
